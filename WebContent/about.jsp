@@ -42,7 +42,7 @@
 					<header class="major special">
 						<h2>Born To Sing</h2>
 						<p>Woods are Lovely Dark And Deep But I have many promisses to keep And Miles to go 
-						befor I sleep befor I sleep!!! Hey There I am changing the contents
+						befor I sleep befor I sleep!!! Hey There I am changing the contents. I am again changing the contents
 						</p>
 					</header>
 
